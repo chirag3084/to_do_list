@@ -1,6 +1,5 @@
 # Django Todo List Application with Tailwind CSS
 
-![Todo App Screenshot](screenshot.png) 
 
 ## Overview
 
