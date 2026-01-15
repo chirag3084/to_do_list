@@ -22,6 +22,7 @@ A modern, responsive todo list application built with Django (MVT architecture) 
 - **Backend**: Django (Python)
 - **Frontend**: HTML, Tailwind CSS
 - **Database**: SQLite (default Django database)
+- **Api**: use later
 
 ## Installation
 
